@@ -83,6 +83,6 @@ JWT_SECRET=mysecretkey
 
 Author
 Prem Bhagat
- .Github:https://github.com/prembhagatce-lgtm/MERN-project
- .Live: https://prembhagatce-lgtm.github.io/MERN-project/
+ .Github:https:https://github.com/prembhagatce-lgtm/MERN-project
+ .Live: 
 
