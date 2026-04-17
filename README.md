@@ -59,16 +59,20 @@ MERN-project/
 Screenshoot
 
 Homepage / Dashboard
-![Homepage](https://raw.githubusercontent.com/prembhagatce-lgtm/MERN-project/main/assets/homepage.png)
+<img width="1536" height="1024" alt="Mern image" src="https://github.com/user-attachments/assets/8e2a5995-0835-4572-92ac-f0d1ee5043bd" />
+
 
 Add Data Page
-![Add Data](https://raw.githubusercontent.com/prembhagatce-lgtm/MERN-project/main/assets/add.png)
+<img width="1536" height="1024" alt="Mern image" src="https://github.com/user-attachments/assets/8fbdfc43-edf8-4cf8-bd27-b138d7505ac5" />
+
 
 Update Data Page
-![Update Data](https://raw.githubusercontent.com/prembhagatce-lgtm/MERN-project/main/assets/update.png)
+<img width="1536" height="1024" alt="Mern image" src="https://github.com/user-attachments/assets/44fc435e-e32a-4834-aa3f-f6615ed6ac65" />
+
 
 Data List View
-![Data List](https://raw.githubusercontent.com/prembhagatce-lgtm/MERN-project/main/assets/list.png)
+<img width="1536" height="1024" alt="Mern image" src="https://github.com/user-attachments/assets/b8856a82-bcde-4029-ae37-d577ded16eb2" />
+
 
 API Endpoints
 Method	Endpoint	Description
