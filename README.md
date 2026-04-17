@@ -56,6 +56,20 @@ MERN-project/
 │── routes/        # API routes
 │── package.json
 
+Screenshoot
+
+Homepage / Dashboard
+![Homepage](https://raw.githubusercontent.com/prembhagatce-lgtm/MERN-project/main/assets/homepage.png)
+
+Add Data Page
+![Add Data](https://raw.githubusercontent.com/prembhagatce-lgtm/MERN-project/main/assets/add.png)
+
+Update Data Page
+![Update Data](https://raw.githubusercontent.com/prembhagatce-lgtm/MERN-project/main/assets/update.png)
+
+Data List View
+![Data List](https://raw.githubusercontent.com/prembhagatce-lgtm/MERN-project/main/assets/list.png)
+
 API Endpoints
 Method	Endpoint	Description
 GET	/api/data	Fetch all records
