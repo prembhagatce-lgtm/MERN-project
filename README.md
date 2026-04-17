@@ -1,88 +1,90 @@
-# MERN-project
-A full-stack web application developed using the MERN stack — MongoDB, Express.js, React.js, and Node.js — that delivers a fast, scalable, and dynamic user experience. The frontend is built with React for responsive and interactive UI components, while the backend uses Node.js and Express.js to handle server-side logic and API integration.
+Stack CRUD Application
+Project Overview
 
+This is a full-stack CRUD application built using the MERN Stack (MongoDB, Express.js, React.js, Node.js).
+The project demonstrates how to perform Create, Read, Update, and Delete operations with proper frontend and backend integration.
 
-Tech Stack
+A README file helps explain what your project does, how to use it, and why it is useful for others.
+
+Features
+ Create new records
+ Read / display data
+ Update existing records
+ Delete records
+ REST API integration
+ Dynamic UI using React
+ Responsive design
+ Technologies Used
  Frontend
-React.js – UI development
-Tailwind CSS – Styling
-Axios – API requests
+React.js
+HTML5
+CSS3
+JavaScript
+Backend
+Node.js
+Express.js
+Database
+MongoDB
+Tools
+Git & GitHub
+VS Code
+Postman (API testing)
+Installation & Setup
 
- Backend
-Node.js – Runtime environment
-Express.js – Backend framework
- Database
+Follow these steps to run the project locally:
 
-MongoDB – NoSQL database
-Mongoose – ODM for MongoDB
- Authentication
+Clone the repository
+git clone https://github.com/prembhagatce-lgtm/MERN-project
 
-JWT (JSON Web Token) – Secure login system
-bcryptjs – Password hashing
- Version Control
+ Navigate to project folder
+cd MERN-project
 
-Git & GitHub – Code management and history
- Features
- Authentication
-
-User Registration
-User Login (JWT-based)
-Secure password hashing
- Task Management
-
-Add Task
-View Tasks
-Edit Task
-Delete Task
- UI/UX
-
-Clean UI using Tailwind CSS
-Responsive layout
-Simple and user-friendly design
-
- API Features
-RESTful API
-CRUD operations
-JSON data handling
-
- Project Features
-Proper folder structure
-Modular code (routes, models)
-Environment variables support
-
- Getting Started Locally
- Prerequisites
-Install Node.js
-Install MongoDB (local or MongoDB Compass)
-Install Git
-
-Clone Repository
-https://github.com/prembhagatce-lgtm/MERN-project
-
- Backend Setup
-cd backend
+ Install backend dependencies
 npm install
-npm run dev
 
- Frontend Setup
-cd frontend
+ Start backend server
+npm start
+For frontend:
+cd client
 npm install
 npm start
 
- Access App
-Frontend: http://localhost:3000
-Backend: http://localhost:5000
+MERN-project/
+│── client/        # React frontend
+│── server/        # Node.js backend
+│── models/        # MongoDB schemas
+│── routes/        # API routes
+│── package.json
 
- Environment Variables
+API Endpoints
+Method	Endpoint	Description
+GET	/api/data	Fetch all records
+POST	/api/data	Create new record
+PUT	/api/data/:id	Update record
+DELETE	/api/data/:id	Delete record
 
-Create a .env file inside backend/
+Challenges Faced
+Connecting frontend with backend
+Handling API requests
+Managing state in React
+Debugging server errors
 
-PORT=5000
-MONGO_URI=mongodb://127.0.0.1:27017/taskDB
-JWT_SECRET=mysecretkey
+Learning Outcomes
+Understanding full-stack development
+Working with REST APIs
+Database integration using MongoDB
+Deployment and version control
+
+Future Improvements
+Add authentication (JWT login system)
+Improve UI/UX
+Add search and filter features
+Deploy backend to cloud (Render / AWS)
 
 Author
-Prem Bhagat
- .Github:https:https://github.com/prembhagatce-lgtm/MERN-project
- .Live:https://prembhagatce-lgtm.github.io/MERN-project/ 
 
+Prem Bhagat
+📧 bhagatprem576@gmail.com
+
+Github link : https://github.com/prembhagatce-lgtm/MERN-project/edit/main/README.md
+Live Link : https://github.com/prembhagatce-lgtm/MERN-project
