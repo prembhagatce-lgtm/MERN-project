@@ -8,16 +8,7 @@ The project demonstrates how to perform Create, Read, Update, and Delete operati
 A README file helps explain what your project does, how to use it, and why it is useful for others.
 
 Features
-MERN-project/
-│
-├── index.html
-├── style.css
-├── Frontend.js
-│
-└── server/
-    ├── server.js
-    └── package.json
-Follow these steps to run the project locally:
+
 
 Clone the repository
 git clone https://github.com/prembhagatce-lgtm/MERN-project
