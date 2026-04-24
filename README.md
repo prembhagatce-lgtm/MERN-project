@@ -4,6 +4,16 @@ Project Overview
 This is a full-stack CRUD application built using the MERN Stack (MongoDB, Express.js, React.js, Node.js).
 The project demonstrates how to perform Create, Read, Update, and Delete operations with proper frontend and backend integration.
 
+MERN-project/
+│
+├── index.html
+├── style.css
+├── Frontend.js
+│
+└── server/
+    ├── server.js
+    └── package.json
+
 A README file helps explain what your project does, how to use it, and why it is useful for others.
 
 Features
